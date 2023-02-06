@@ -1,0 +1,24 @@
+cd..
+--Copy folder link
+cd "folder link"
+
+dir 
+--cd jaelproject
+python -m django --version
+--django-admin startproject Onlineshopping
+--python manage.py startapp shop
+python manage.py runserver
+cntrl C
+http://127.0.0.1:8000/
+
+python manage.py createsuperuser
+jael
+jaelabuga@gmail.com
+jael123
+
+{% extends 'base.html' %}
+
+
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/tracker/
+http://127.0.0.1:8000/admin/auth/user/add/
